@@ -11,7 +11,7 @@
 ===================================================================
 salesforce uses MVC approach
 
-APEX:			similar to java
+APEX:			similar to java, controller part
 Visualforce:	UI
 Lightning:		New UI,framework like node.js, Mobile responsive, part of controller as well with the help of js
 ==================================================================================================================
@@ -21,3 +21,13 @@ DML			(Database manuplation language) create, update, delete
 ============================================================================================
 Triggers
 APEX Testing	Compulsory to write testing class. Basically test the code working as expected.
+Visualforce     
+-----------------------------------------------------------------------------------------------
+Learn Javascript from Javascript.info
+GovernorLimits & Batch APEX(Process multiple records in small chunks)
+APIs & INTEGRATION
+Deployment Methodologies
+-----------------------------------------------------------------------------------------------
+Pre Requisites to Learn Salesforce|
+-----------------------------------
+
