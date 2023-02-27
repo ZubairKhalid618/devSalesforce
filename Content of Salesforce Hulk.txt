@@ -1,0 +1,23 @@
+1:	APEX Basics
+2:	APEX OOP Concepts
+3:	SOQL&SOSL
+4:	DML Statements & Database Class Methods
+5:	APEX Triggers
+6:	APEX Testing
+7:	Governor Limits & Batch APEX
+7:	VISUALFORCE
+8:	API & INTEGRATION
+9:	Deployment Process
+===================================================================
+salesforce uses MVC approach
+
+APEX:			similar to java
+Visualforce:	UI
+Lightning:		New UI,framework like node.js, Mobile responsive, part of controller as well with the help of js
+==================================================================================================================
+OOP in AJAX
+SOQL & SOSL		(Salesforce Object Query language, Salesforce Object Search Language) 
+DML			(Database manuplation language) create, update, delete
+============================================================================================
+Triggers
+APEX Testing	Compulsory to write testing class. Basically test the code working as expected.
