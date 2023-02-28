@@ -1,0 +1,19 @@
+BASICS:
+-------
+1:      Strongly typed OOP language. (Strongly typed: You have to declare datatype of each variable)
+2:      Proprietry language developed by Salesforce.com.
+3:      Allow us to write the code that extecutes on force.com platform.
+4:      Saved, Compiled and extecutes on the servers of force.com platform.
+
+FEATURES:
+---------
+1:      Upgraded automatically.
+2:      Integrated with the database. (No need to make connections like java, C#, C, C++)
+3:      Easy to test.
+4:      Multitenant environment. (Reduces Cost)
+5:      Code is saved against different versions of force.com API
+6:      Case insensitive language. (Uppercase, lowercase letter doesn't matter)
+
+When to use apex? | Flows of action in apex :
+--------------------------------------------
+        compiled app

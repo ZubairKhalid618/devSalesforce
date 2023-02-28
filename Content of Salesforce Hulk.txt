@@ -34,4 +34,13 @@ Pre Requisites to Learn Salesforce|
 *2:  Pattern practice using loops because its very important
 3:  OOP Concepts:       Head First java(Book)
 4:  Polymorphism:       Single thing many forms
-5:  Exception Handling: 1
+5:  Exception Handling: if something goes worng how to handle e.g. try catch block
+6:  Collections:        DSA (how to store same kind of info in different formats), array, tree, stack, que, heap, linklist, sorting
+7:  SQL:     
+8:  Threads:            no threads in Salesforce
+----------------------------------------------------------------------------------------------------------------------------------------
+OUTCOMES OF SALESFORCE DEVELOPMENT COURSE:
+------------------------------------------
+1:  PD1 Certification preparation
+2:  Assignments
+3:  Projects (CRM based)
