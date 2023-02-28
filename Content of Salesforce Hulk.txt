@@ -30,4 +30,8 @@ Deployment Methodologies
 -----------------------------------------------------------------------------------------------
 Pre Requisites to Learn Salesforce|
 -----------------------------------
-
+1:  Build your logical skills.(Problem,Understanding,Figuring out solution, Implement solution with code) |practice
+*2:  Pattern practice using loops because its very important
+3:  OOP Concepts:       Head First java(Book)
+4:  Polymorphism:       Single thing many forms
+5:  Exception Handling: 
