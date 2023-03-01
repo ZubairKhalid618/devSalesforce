@@ -17,3 +17,33 @@ FEATURES:
 When to use apex? | Flows of action in apex :
 --------------------------------------------
         compiled app
+--------------------------------------------
+
+Features not supported by APEX:
+-------------------------------
+1:  It cannot show the elements in Ul other than error message.
+2:  It cannot change the standard SFDC functionality but can be used to stop its execution or to add a new functionality.
+3:  It cannot be used to create a temporary file.
+4:  It cannot create multiple threads.
+
+What are APEX Environments?
+---------------------------
+There are several environments for developing apex code
+1:  We can run apex in a developer org, production org and a sandbox.
+2:  We cannot develop in our production org because live users are accessing the system so while
+    we are developing it can destabilize our data and corrupt our application.
+3:  Instead we do all our development work in sandbox or developer edition.
+
+Different types of  APEX Environments?
+--------------------------------------
+
+What are the different types of Development Environment?
+--------------------------------------------------------
+
+
+What are Sandboxes?
+-------------------
+========================================================
+
+Static Methods:     Used for all objects                Called by classname
+Instance Methods:   Used for particular objects         Called after making object of class
