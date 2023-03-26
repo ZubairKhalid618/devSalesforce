@@ -39,11 +39,23 @@ Different types of  APEX Environments?
 
 What are the different types of Development Environment?
 --------------------------------------------------------
+Production				Can't write code in production 
+Development				can write code
+Testing		
+developer adition/sandbox	can write the code but limitation 
 
 
-What are Sandboxes?
--------------------
-========================================================
+What are Sandboxes types?
+-------------------------
+full copy sandbox
+partial copy sandbox
+developer sandbox
+developer pro sandbox
+===========================================================
+there is no testing environment we use sandbox for testing
+===========================================================
 
 Static Methods:     Used for all objects                Called by classname
 Instance Methods:   Used for particular objects         Called after making object of class
+
+
